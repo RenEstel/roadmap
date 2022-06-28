@@ -1,0 +1,5 @@
+[упражнения](https://sql-tutorial.ru)
+[упражнения sql](https://sql-ex.ru)
+[упражнения postgres](https://pgexercises.com)
+[упражнения postgres](https://learndb.ru/courses)
+[основы sql](https://sqlbolt.com)
